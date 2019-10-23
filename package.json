@@ -1,5 +1,9 @@
 {
-  "scripts": {
-    "install": "npm --prefix=module-1 install && npm --prefix=module-2 install"
+  "name": "test",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "s226": "npm:sodium-native@2.2.6",
+    "s242": "npm:sodium-native@2.4.2"
   }
 }

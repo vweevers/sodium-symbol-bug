@@ -1,2 +1,2 @@
-require('./module-1')
-require('./module-2')
+require('s226')
+require('s242')
